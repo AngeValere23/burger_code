@@ -2,10 +2,10 @@
 
 class Database
 {
-    private static $dbHost = "premium31.web-hosting.com";
-    private static $dbName = "rockoqmd_burger";
-    private static $dbUsername = "rockoqmb_ange";
-    private static $dbUserpassword = "burger_code";
+    private static $dbHost = "127.0.0.1";
+    private static $dbName = "burger_code";
+    private static $dbUsername = "root";
+    private static $dbUserpassword = "";
     
     private static $connection = null;
     
